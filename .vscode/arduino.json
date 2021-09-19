@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "programmer": "arduino:avrisp",
+    "sketch": "Timbangan_Galatama_Rev_1.ino",
+    "port": "COM3"
+}
